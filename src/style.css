@@ -1,0 +1,13 @@
+* {
+  text-align: center;
+}
+
+html {
+  background: url("https://www.gifcen.com/wp-content/uploads/2021/08/flowers-png-gif-2.gif")
+    no-repeat center;
+  background-size: 100%;
+}
+
+h1 {
+  color: green;
+}
